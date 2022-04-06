@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981968881921",
+    "project_id": "pushnotifications-e92ec",
+    "storage_bucket": "pushnotifications-e92ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981968881921:android:64337c067c2bd381d7f300",
+        "android_client_info": {
+          "package_name": "com.fourteen.digital.pushnotificatinscloudmessagingfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981968881921-jme3v86arank6mtmdcd5ofae9u2kp0bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa0Qg7o6HDDrMBf4GDrhVajw1xKApeP3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981968881921-jme3v86arank6mtmdcd5ofae9u2kp0bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
